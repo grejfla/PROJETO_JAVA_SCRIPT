@@ -29,5 +29,16 @@ else {
 }
 console.log( "a pessoa é " +  idade);
 
+var num;
+
+for (num= 1; num <=10; num++) {
+    console.log(num);
+}
+
+function BoasVindas(){
+    var nome_pessoa = "Flávio";
+    console.log("Ola seja bem vindo " + nome_pessoa);
+}
+
 
 
